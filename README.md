@@ -1,4 +1,4 @@
--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is IFTIKHAR ALI WAZIR
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is IFTIKHAR ALI WAZIR
 ==========================================================================================================================================
 
 Developer | Designer
@@ -47,13 +47,11 @@ src="https://img.shields.io/twitter/follow/iftikh36?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iftikh36"><img src="https://github-readme-stats.vercel.app/api?username=iftikh36&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="iftikh36's GitHub stats" /></a>
+<a href="http://www.github.com/iftikh36"><img src="https://github-readme-stats.vercel.app/api?username=iftikh36&show_icons=true&hide=&title_color=f97316&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="iftikh36's GitHub stats" /></a>
 
 <a href="http://www.github.com/iftikh36"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikh36&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="http://www.github.com/iftikh36"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iftikh36&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/iftikh36" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikh36&langs_count=10&title_color=f97316&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
