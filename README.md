@@ -19,7 +19,7 @@ so I firmly believe that learning should never stop. Therefore, I keep up-skilli
 * 🚀  I'm currently working on [E-Commerce App](http://https://github.com/iftikh36/Ecommerce_APP)
 * 🧠  I'm learning Flutter | UI/UX
 * 🤝  I'm open to collaborating on Flutter, UI/UX
-* ⚡  I'm secretly shutterbug, but don't tell anyone 😅
+* ⚡  I'm secretly shutterbug 📸 , but don't tell anyone 😅
 
 <a href="https://www.github.com/iftikh36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iftikh36?logo=github&style=for-the-badge&color=22c55e&labelColor=ffffff" /></a><a href="https://www.twitter.com/iftikh36" target="_blank" rel="noreferrer"><img
