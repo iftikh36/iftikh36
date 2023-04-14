@@ -58,6 +58,4 @@ src="https://img.shields.io/twitter/follow/iftikh36?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/iftikh36"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iftikh36&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/iftikh36/Ecommerce_APP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iftikh36&repo=Ecommerce_APP&title_color=f97316&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
