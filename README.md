@@ -12,7 +12,7 @@ Developer | Designer
 I am an undergrad engineering student, and I am majoring in Mechatronics and Robotics. 
 I love problems solving and I am an active user of coding platforms also passionate about Blockchain earlier 
 I listed some NFTs on several platform.I like questioning things, whys and hows, 
-so I firmly believe that learning should never stop. Therefore, I keep up-skilling myself in Python, Photoshop, UI/UX, Flutter and Web Development.
+so I firmly believe that learning should never stop. Therefore, I keep up-skilling myself in Python, Photoshop, Robotics, UI/UX, Flutter and Web Development.
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [ifti.wazir36@gmail.com](mailto:ifti.wazir36@gmail.com)
