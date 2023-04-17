@@ -8,7 +8,7 @@
 
 Developer | Designer
 --------------------
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE0OGEzMTdlOTJmZjNjMGViOGVjMWE0ODdiZTM3OWI3MzZjNGQzZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 I am an undergrad engineering student, and I am majoring in Mechatronics and Robotics. 
 I love problems solving and I am an active user of coding platforms also passionate about Blockchain earlier 
 I listed some NFTs on several platform.I like questioning things, whys and hows, 
