@@ -68,10 +68,3 @@ src="https://img.shields.io/twitter/follow/iftikh36?logo=twitter&style=for-the-b
 
 
 
-<!-- Currently exploring ios development and cloud native technology ☕️ -->
-
-<samp>
-
-[email](mailto:hello.prajnaa@gmail.com) ~ [twitter](https://twitter.com/prajnatwts) ~ [linkedin](https://www.linkedin.com/in/prajna30/)
-
-</samp>
