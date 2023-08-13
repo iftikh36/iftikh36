@@ -9,7 +9,7 @@
 Developer | Designer
 --------------------
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE0OGEzMTdlOTJmZjNjMGViOGVjMWE0ODdiZTM3OWI3MzZjNGQzZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-I am an undergrad engineering student at [MIT Manipal](https://manipal.edu/mit.html), and I am majoring in Mechatronics and Robotics. 
+I am an undergrad engineering student at [ MIT Manipal ](https://manipal.edu/mit.html), and I am majoring in Mechatronics and Robotics. 
 I love problems solving, and I am an active user of coding platforms also passionate about Blockchain earlier 
 I listed some NFTs on several platforms. I like questioning things, whys and hows, 
 so I firmly believe that learning should never stop. Therefore, I keep up-skilling myself in Python, Photoshop, Robotics, UI/UX, Flutter and Web Development.
@@ -61,4 +61,18 @@ src="https://img.shields.io/twitter/follow/iftikh36?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/iftikh36"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iftikh36&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+## 👋🏼 Hello, I'm Prajna
 
+I'm currently in my third year student at [MIT Manipal](https://manipal.edu/mit.html), pursuing a Bachelor's in Data Science.
+
+A fullstack developer who loves building minimal, modern and beautiful websites, mobile apps, and user interfaces. I am always open to collaborating on projects and innovative/disruptive ideas.
+
+
+
+<!-- Currently exploring ios development and cloud native technology ☕️ -->
+
+<samp>
+
+[email](mailto:hello.prajnaa@gmail.com) ~ [twitter](https://twitter.com/prajnatwts) ~ [linkedin](https://www.linkedin.com/in/prajna30/)
+
+</samp>
