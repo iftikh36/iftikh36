@@ -10,7 +10,8 @@ Developer | Designer
 --------------------
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE0OGEzMTdlOTJmZjNjMGViOGVjMWE0ODdiZTM3OWI3MzZjNGQzZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 I am an undergrad engineering student at [MIT Manipal](https://manipal.edu/mit.html),  
-I'm currently an undergrad engineering student at [MIT Manipal](https://manipal.edu/mit.html), pursuing a Bachelor's in Data Science.
+I'm currently in my third year student at [MIT Manipal](https://manipal.edu/mit.html), pursuing a Bachelor's in Data Science.
+
 
 
 
