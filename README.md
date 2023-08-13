@@ -61,11 +61,10 @@ src="https://img.shields.io/twitter/follow/iftikh36?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/iftikh36"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iftikh36&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## 👋🏼 Hello, I'm Prajna
+## 
 
-I'm currently in my third year student at [MIT Manipal](https://manipal.edu/mit.html), pursuing a Bachelor's in Data Science.
+[MIT Manipal](https://manipal.edu/mit.html), 
 
-A fullstack developer who loves building minimal, modern and beautiful websites, mobile apps, and user interfaces. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 
 
