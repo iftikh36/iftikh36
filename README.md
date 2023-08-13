@@ -71,7 +71,7 @@ src="https://img.shields.io/twitter/follow/iftikh36?logo=twitter&style=for-the-b
 
 
 
-[MIT Manipal](https://manipal.edu/mit.html), 
+
 
 
 
